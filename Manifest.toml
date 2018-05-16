@@ -21,7 +21,7 @@ deps = ["MacroTools"]
 git-tree-sha1 = "734c9ba3da8b0f6c2f5ec1234085ae47db827dca"
 repo-rev = ""
 repo-url = "https://github.com/fredrikekre/ImportMacros.jl"
-uuid = "9a09b44a-58de-11e8-1b3f-cfe330289de1"
+uuid = "7d7999ea-5900-11e8-2b8c-2f6ade49a229"
 version = "0.0.0"
 
 [[InteractiveUtils]]

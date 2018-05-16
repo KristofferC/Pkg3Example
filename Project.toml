@@ -1,0 +1,8 @@
+authors = ["Kristoffer Carlsson <kcarlsson89@gmail.com>"]
+name = "Pkg3Example"
+uuid = "5c824a3e-5900-11e8-1ece-493a233c086c"
+version = "0.1.0"
+
+[deps]
+ImportMacros = "7d7999ea-5900-11e8-2b8c-2f6ade49a229"
+JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
